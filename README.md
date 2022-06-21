@@ -7,5 +7,5 @@
 - Data Fetching and Loading
 - Terrain Visualization
 #### Transform
-- Data Transformation using
+- Data Transformation
 #### Load
