@@ -6,5 +6,6 @@
 ####  Extract
 - Fetching and Loading lidar data
 - Terrain Visualization
-## Transforming and visualizing lidar data
+## Transform
+- Transforming and visualizing lidar data
 #### Load
