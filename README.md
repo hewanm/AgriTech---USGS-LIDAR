@@ -4,8 +4,7 @@
 ## Steps Followed
 ### ETL(Extract, Transform, Load) data pipeline will be used.
 ####  Extract
-- Data Fetching and Loading
+- Fetching and Loading lidar data
 - Terrain Visualization
-#### Transform
-- Data Transformation
+## Transforming and visualizing lidar data
 #### Load
