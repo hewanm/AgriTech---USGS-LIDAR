@@ -8,4 +8,5 @@
 - Terrain Visualization
 #### Transform
 - Transforming and visualizing lidar data
+- Using Topographic wetness index (TWI) 
 #### Load
