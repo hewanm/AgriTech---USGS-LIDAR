@@ -1,3 +1,5 @@
+from asyncio.windows_events import NULL
+from contextlib import nullcontext
 import numpy as np
 import pdal
 import json
@@ -9,3 +11,9 @@ class VisualizeTransform:
     """
     VisualizeTransform class is a packege prepared to fetch, visualize and transform LIDAR data
     """
+    
+    def __init__(self):
+        """
+        Initialize the class
+        """
+        return NULL
