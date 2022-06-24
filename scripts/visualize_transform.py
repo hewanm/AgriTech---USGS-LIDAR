@@ -17,3 +17,6 @@ class VisualizeTransform:
         Initialize the class
         """
         return NULL
+    def get_boundaries():
+        return
+    
