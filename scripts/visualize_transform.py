@@ -9,7 +9,7 @@ from shapely.geometry import Polygon, Point
 
 class VisualizeTransform:
     """
-    VisualizeTransform class is a packege prepared to fetch, visualize and transform LIDAR data
+    VisualizeTransform class is a package prepared to fetch, visualize and transform LIDAR data
     """
     
     def __init__(self):
@@ -18,5 +18,8 @@ class VisualizeTransform:
         """
         return NULL
     def get_boundaries():
+        """"
+        get polygon boundaries
+        """
         return
     
